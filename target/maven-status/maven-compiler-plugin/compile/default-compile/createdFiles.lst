@@ -1,0 +1,15 @@
+elastic\filter\SearchActionFilterUtil.class
+elastic\DocApiPlugin$ApiAudit.class
+elastic\settings\SettingsObservable.class
+elastic\settings\SettingsUtils.class
+elastic\settings\SettingsObservableImpl.class
+elastic\DocApiPlugin$1.class
+elastic\common\Common.class
+elastic\DocApiPlugin.class
+elastic\utils\RestRequestUtil$1.class
+elastic\filter\SearchActionFilter.class
+elastic\DocApiPlugin$DocApiAction.class
+elastic\DocApiPlugin$ApiSettings.class
+elastic\utils\RestRequestUtil$2.class
+elastic\settings\RawSettings.class
+elastic\utils\RestRequestUtil.class
