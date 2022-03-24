@@ -15,7 +15,7 @@
 	<!-- Quick configuration properties -->
 	<properties>
 		<!-- Version of the Elastic Stack to build against/target -->
-		<elastic.version>6.4.2</elastic.version>
+		<elastic.version>8.0.0</elastic.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
