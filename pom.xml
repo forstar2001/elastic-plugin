@@ -15,7 +15,7 @@
 	<!-- Quick configuration properties -->
 	<properties>
 		<!-- Version of the Elastic Stack to build against/target -->
-		<elastic.version>6.4.2</elastic.version>
+		<elastic.version>8.4.0</elastic.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
@@ -131,7 +131,7 @@
 		<dependency>
 			<groupId>org.elasticsearch.client</groupId>
 			<artifactId>elasticsearch-rest-client</artifactId>
-			<version>6.4.2</version>
+			<version>8.4.0</version>
 			<scope>provided</scope>
 		</dependency>
 
